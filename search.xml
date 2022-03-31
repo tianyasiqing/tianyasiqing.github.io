@@ -304,5 +304,11 @@
     <title>MyGallery</title>
     <url>/2022/03/02/MyGallery/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Android</tag>
+      </tags>
   </entry>
 </search>
